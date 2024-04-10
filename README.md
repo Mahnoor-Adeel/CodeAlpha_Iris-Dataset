@@ -1,7 +1,7 @@
 # CodeAlpha_Iris-Dataset
 <h2>Introduction</h2>
 This project is my second task for my intership at CodeAlpha. This project dealt with analysing the popular <b>Iris Dataset</b> and interpreting the distrbitutions and correlations between variables using various visualsation techniques.<hr>
-The Iris Dataset is a popular problem in Statistic and Machine Learning. It deals with the domain of measurements in taxonomic problems. The dataset consists of 150 samples of iris flowers, each belonging to one of three species: Setosa, Versicolor, and Virginica. For each sample, four features are provided:
+The Iris Dataset is a popular problem in Statistics and Machine Learning. It deals with the domain of measurements in taxonomic problems. The dataset consists of 150 samples of iris flowers, each belonging to one of three species: Setosa, Versicolor, and Virginica. For each sample, four features are provided:
 <br><br>
 <ul>
   <li>Sepal Length</li>
